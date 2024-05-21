@@ -1,0 +1,3 @@
+melko, 3
+jogurt, 2
+jaja, 1

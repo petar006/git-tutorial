@@ -1,3 +1,4 @@
 melko, 3
 jogurt, 2
 jaja, 1
+plazma, 2
